@@ -1,0 +1,25 @@
+2023-05-23 17:03:11 [CLIENT] [INFO] Setting user: Player886
+2023-05-23 17:03:11 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2023-05-23 17:03:14 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2023-05-23 17:03:14 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2023-05-23 17:03:14 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2023-05-23 17:03:14 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2023-05-23 17:03:14 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2023-05-23 17:03:14 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2023-05-23 17:03:14 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2023-05-23 17:03:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2023-05-23 17:03:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2023-05-23 17:33:20 [CLIENT] [INFO] Setting user: Player671
+2023-05-23 17:33:20 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2023-05-23 17:33:49 [CLIENT] [INFO] Setting user: Player102
+2023-05-23 17:33:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2023-05-23 17:33:52 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2023-05-23 17:33:55 [CLIENT] [INFO] Stopping!
