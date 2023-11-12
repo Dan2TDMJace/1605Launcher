@@ -1,0 +1,31 @@
+music:1.0
+sound:1.0
+invertYMouse:false
+mouseSensitivity:0.5
+viewDistance:0
+bobView:true
+anaglyph3d:false
+limitFramerate:false
+difficulty:2
+gxMode:1
+pauseOnUnfocus:true
+fovMod:0.5
+skin:Default
+shadersOn:false
+shadersSSR:true
+shadersDOF:true
+shadersAA:true
+shadersBloom:true
+shadersMotionBlur:2
+key_Forward:17
+key_Left:30
+key_Back:31
+key_Right:32
+key_Jump:57
+key_Sneak:29
+key_Drop:16
+key_Inventory:23
+key_Chat:20
+key_Toggle fog:33
+key_Dash:42
+key_Open console:41

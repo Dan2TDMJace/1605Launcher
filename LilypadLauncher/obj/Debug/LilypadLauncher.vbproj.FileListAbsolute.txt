@@ -10,3 +10,15 @@ C:\Users\khens\source\repos\LilypadLauncher\LilypadLauncher\obj\Debug\LilypadLau
 C:\Users\khens\source\repos\LilypadLauncher\LilypadLauncher\obj\Debug\LilypadLauncher.exe
 C:\Users\khens\source\repos\LilypadLauncher\LilypadLauncher\obj\Debug\LilypadLauncher.xml
 C:\Users\khens\source\repos\LilypadLauncher\LilypadLauncher\obj\Debug\LilypadLauncher.pdb
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\bin\Debug\LilypadLauncher.exe.config
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\bin\Debug\LilypadLauncher.exe
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\bin\Debug\LilypadLauncher.pdb
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\bin\Debug\LilypadLauncher.xml
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.vbproj.AssemblyReference.cache
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.Form1.resources
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.Resources.resources
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.vbproj.GenerateResource.cache
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.vbproj.CoreCompileInputs.cache
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.exe
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.xml
+C:\Users\khens\Downloads\1605Launcher-main\LilypadLauncher\obj\Debug\LilypadLauncher.pdb
